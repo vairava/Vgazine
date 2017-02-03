@@ -1,0 +1,18 @@
+@CHARSET "ISO-8859-1";
+
+.bg-title{
+	background-color: #1abc9c;
+	color:  #ffffff;
+	padding-top: 20;
+	padding-bottom: 40;
+}
+.mag-bg{
+	background-color: #f6f6f6;
+}
+.container-fluid {
+	padding: 20px 40px;
+}
+.bg-4 { 
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
